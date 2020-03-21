@@ -1,368 +1,78 @@
-[20:16:05] [Server thread/INFO]: Loading properties
-[20:16:05] [Server thread/INFO]: Default game type: SURVIVAL
-[20:16:05] [Server thread/INFO]: Generating keypair
-[20:16:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:16:06] [Server thread/INFO]: Using default channel type
-[20:16:07] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[20:16:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:16:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:16:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:16:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:16:07] [Server thread/INFO]: Preparing level "world"
-[20:16:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:16:08] [Server thread/INFO]: Loaded 6 recipes
-[20:16:19] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[20:16:21] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:21] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:21] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:21] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:21] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:21] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:22] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:22] [Server thread/INFO]: Preparing spawn area: 83%
-[20:16:22] [Server thread/INFO]: Time elapsed: 3700 ms
-[20:16:22] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[20:16:23] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:23] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:23] [Server thread/INFO]: Time elapsed: 986 ms
-[20:16:23] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[20:16:24] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:24] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[20:16:24] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[20:16:25] [Server-Worker-2/INFO]: Preparing spawn area: 97%
-[20:16:25] [Server thread/INFO]: Time elapsed: 1561 ms
-[20:16:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:16:25] [Server thread/INFO]: Done (17.697s)! For help, type "help"
-[20:32:30] [Server thread/INFO]: Fritask[/191.248.188.241:50939] logged in with entity id 108 at ([world]-981.2396255418942, 74.0, -1498.8529703603392)
-[20:35:29] [Server thread/INFO]: pevve[/189.15.139.27:4520] logged in with entity id 910 at ([world]-976.5772010734627, 67.0, -1484.013588865817)
-[20:35:55] [Netty Server IO #2/INFO]: <pevve> bora[m
-[20:35:55] [Netty Server IO #2/INFO]: <pevve> boar[m
-[20:35:56] [Netty Server IO #2/INFO]: <pevve> roubar[m
-[20:35:57] [Netty Server IO #2/INFO]: <pevve> a casa[m
-[20:35:58] [Netty Server IO #2/INFO]: <pevve> do savasta[m
-[20:36:00] [Netty Server IO #1/INFO]: <Fritask> s[m
-[20:36:16] [Netty Server IO #1/INFO]: <Fritask> :o[m
-[20:36:26] [Server thread/INFO]: alexandremm[/192.168.0.14:52656] logged in with entity id 1099 at ([world]-1007.6969777014737, 61.24918707874468, -1661.2581592613376)
-[20:37:55] [Netty Server IO #2/INFO]: <pevve> onde ficava os cavalo[m
-[20:39:52] [Netty Server IO #4/INFO]: <alexandremm> a[m
-[20:40:07] [Netty Server IO #2/INFO]: <pevve> a[m
-[20:41:22] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[20:41:25] [Server thread/INFO]: [Server] oi
-[20:41:31] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[20:41:46] [Netty Server IO #4/INFO]: <alexandremm> a[m
-[20:41:54] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[20:41:54] [Server thread/INFO]: alexandremm left the game
-[20:41:59] [Server thread/INFO]: alexandremm[/192.168.0.14:52666] logged in with entity id 2433 at ([world]-1005.5546594833784, 65.0, -1540.300000011921)
-[20:42:02] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[20:42:02] [Server thread/INFO]: alexandremm left the game
-[20:42:06] [Server thread/INFO]: alexandremm[/192.168.0.14:52671] logged in with entity id 2460 at ([world]-1005.5546594833784, 65.0, -1540.300000011921)
-[20:43:14] [Netty Server IO #2/INFO]: <pevve> z[m
-[20:43:21] [Netty Server IO #1/INFO]: <Fritask> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[20:44:48] [Server thread/WARN]: alexandremm moved wrongly!
-[20:46:27] [Server thread/WARN]: Fritask moved too quickly! 10.973496508041762,-0.2468000194787976,-2.5243191689182822
-[20:46:27] [Server thread/WARN]: Fritask moved too quickly! 10.691156762350033,-0.5800000131130219,-2.4452052480778548
-[20:46:32] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[20:46:32] [Server thread/INFO]: alexandremm left the game
-[20:48:42] [Server thread/INFO]: alexandremm[/192.168.0.14:49932] logged in with entity id 3589 at ([world]-985.7546752349086, 67.875, -1482.9478414644793)
-[20:49:14] [Netty Server IO #4/INFO]: <alexandremm> a[m
-[20:54:08] [Netty Server IO #1/INFO]: <Fritask> zzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[20:54:09] [Netty Server IO #1/INFO]: <Fritask> alexandremm[m
-[20:54:10] [Netty Server IO #1/INFO]: <Fritask> alexandremm[m
-[20:54:10] [Netty Server IO #1/INFO]: <Fritask> alexandremm[m
-[20:54:11] [Netty Server IO #1/INFO]: <Fritask> alexandremm[m
-[20:54:11] [Netty Server IO #1/INFO]: <Fritask> alexandremm[m
-[20:54:12] [Netty Server IO #1/INFO]: <Fritask> alexandremm[m
-[20:54:12] [Netty Server IO #1/INFO]: <Fritask> alexandremm[m
-[20:55:42] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[20:55:43] [Server thread/INFO]: alexandremm left the game
-[20:56:43] [Server thread/INFO]: alexandremm[/192.168.0.14:49986] logged in with entity id 4933 at ([world]-991.6895226599906, 63.9375, -1523.3658090030258)
-[20:57:05] [Netty Server IO #7/INFO]: <alexandremm> zzzzzzzzzzzzzzzz[m
-[20:57:12] [Netty Server IO #1/INFO]: <Fritask> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[20:57:16] [Netty Server IO #7/INFO]: <alexandremm> MIAU[m
-[21:00:09] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[21:00:09] [Server thread/INFO]: alexandremm left the game
-[21:00:12] [Netty Server IO #2/INFO]: <pevve> eba[m
-[21:00:18] [Netty Server IO #1/INFO]: <Fritask> ihul[m
-[21:00:47] [Server thread/INFO]: alexandremm[/192.168.0.14:50010] logged in with entity id 5863 at ([world]-1004.6069805544976, 64.0, -1528.8220838134193)
-[21:00:51] [Netty Server IO #3/INFO]: <alexandremm> a[m
-[21:01:31] [Netty Server IO #3/INFO]: <alexandremm> a pronto[m
-[21:01:32] [Netty Server IO #3/INFO]: <alexandremm> comecou a[m
-[21:01:34] [Netty Server IO #3/INFO]: <alexandremm> travar[m
-[21:01:35] [Netty Server IO #3/INFO]: <alexandremm> dnv[m
-[21:02:08] [Netty Server IO #3/INFO]: <alexandremm> a[m
-[21:08:51] [Netty Server IO #3/INFO]: <alexandremm> zzzzzzzzzzzzz[m
-[21:08:55] [Netty Server IO #1/INFO]: <Fritask> zzzzzzzzzzzzzzzzzzz[m
-[21:09:41] [Server thread/INFO]: Fritask was slain by Iron Golem
-[21:10:20] [Netty Server IO #3/INFO]: <alexandremm> zzzzzzzzzzzz[m
-[21:10:31] [Server thread/INFO]: Fritask was slain by Iron Golem
-[21:10:45] [Netty Server IO #2/INFO]: <pevve> z[m
-[21:10:52] [Netty Server IO #1/INFO]: <Fritask> zz[m
-[21:15:23] [Server thread/INFO]: alexandremm issued server command: /home
-[21:16:21] [Netty Server IO #3/INFO]: <alexandremm> coordandas da vila[m
-[21:16:26] [Netty Server IO #1/INFO]: <Fritask> -1000 -1500[m
-[21:16:51] [Server thread/INFO]: Big0de[/189.15.131.248:49658] logged in with entity id 10873 at ([world]-659.8386965401531, 62.26124529927706, -1607.2981868206477)
-[21:16:56] [Netty Server IO #7/INFO]: <Big0de> oi amores[m
-[21:17:00] [Netty Server IO #3/INFO]: <alexandremm> oi gostoso[m
-[21:17:02] [Netty Server IO #3/INFO]: <alexandremm> manda foto do pau[m
-[21:17:03] [Netty Server IO #3/INFO]: <alexandremm> pai*[m
-[21:17:10] [Netty Server IO #7/INFO]: <Big0de> k[m
-[21:17:15] [Netty Server IO #3/INFO]: <alexandremm> potassi[m
-[21:17:16] [Netty Server IO #7/INFO]: <Big0de> pai ta online[m
-[21:17:21] [Netty Server IO #3/INFO]: <alexandremm> igual o pauzao dele[m
-[21:17:23] [Netty Server IO #3/INFO]: <alexandremm> grossao[m
-[21:17:24] [Netty Server IO #7/INFO]: <Big0de> mds[m
-[21:17:38] [Netty Server IO #3/INFO]: <alexandremm> essa pingola tem hisotria[m
-[21:18:09] [Netty Server IO #7/INFO]: <Big0de> bautica bau bau[m
-[21:18:16] [Netty Server IO #3/INFO]: <alexandremm> cai de boca no meu pau, auauau[m
-[21:20:03] [Server thread/INFO]: pevve has made the advancement [Tactical Fishing]
-[21:20:09] [Netty Server IO #1/INFO]: <Fritask> ja troquei[m
-[21:20:12] [Netty Server IO #3/INFO]: <alexandremm> pq saiu[m
-[21:20:22] [Netty Server IO #1/INFO]: <Fritask> fui pro secnudario[m
-[21:20:26] [Netty Server IO #7/INFO]: <Big0de> que[m
-[21:22:10] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[21:22:10] [Server thread/INFO]: alexandremm left the game
-[21:23:01] [Server thread/INFO]: alexandremm[/192.168.0.14:50062] logged in with entity id 13697 at ([world]-1193.5040944890686, 71.0, -1565.699999988079)
-[21:23:16] [Netty Server IO #1/INFO]: <Fritask> zzzzzzzzzzzzzzzzzzzz[m
-[21:23:35] [Netty Server IO #7/INFO]: <Big0de> zza[m
-[21:23:53] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[21:23:53] [Server thread/INFO]: alexandremm left the game
-[21:24:08] [Netty Server IO #7/INFO]: <Big0de> dormeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[m
-[21:24:13] [Netty Server IO #7/INFO]: <Big0de> dorime[m
-[21:24:39] [Netty Server IO #2/INFO]: <pevve> z[m
-[21:24:48] [Netty Server IO #2/INFO]: <pevve> zzzzzzzzzz[m
-[21:24:49] [Netty Server IO #2/INFO]: <pevve> zzzzzzz[m
-[21:24:49] [Netty Server IO #2/INFO]: <pevve> zzzzzzzzzzz[m
-[21:24:50] [Netty Server IO #2/INFO]: <pevve> zzzzzzzzzz[m
-[21:24:51] [Netty Server IO #2/INFO]: <pevve> zzzzzzzz[m
-[21:24:52] [Netty Server IO #2/INFO]: <pevve> zzzzzzzz[m
-[21:25:10] [Server thread/INFO]: alexandremm[/192.168.0.14:50076] logged in with entity id 14185 at ([world]-1209.1805068131657, 81.0, -1648.2121088898548)
-[21:25:12] [Netty Server IO #7/INFO]: <Big0de> OIIIIIIII[m
-[21:34:43] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[21:35:40] [Server thread/INFO]: Big0de lost connection: te amo
-[21:35:42] [Server thread/INFO]: Big0de left the game
-[21:35:42] [Server thread/INFO]: Kicked Big0de: te amo
-[21:35:49] [Server thread/INFO]: Big0de[/189.15.131.248:49695] logged in with entity id 16699 at ([world]-1020.9451927602165, 66.0, -1542.721786619161)
-[21:36:41] [Netty Server IO #1/INFO]: <Fritask> zzzzzzzzzzzzz[m
-[21:37:17] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[21:37:17] [Server thread/INFO]: alexandremm left the game
-[21:37:18] [Netty Server IO #1/INFO]: <Fritask> zazzzzzzzzzzzzzzzzzzzz[m
-[21:37:20] [Netty Server IO #1/INFO]: <Fritask> Big0de[m
-[21:37:20] [Netty Server IO #1/INFO]: <Fritask> Big0de[m
-[21:37:20] [Netty Server IO #1/INFO]: <Fritask> Big0de[m
-[21:37:21] [Netty Server IO #1/INFO]: <Fritask> Big0de[m
-[21:37:21] [Netty Server IO #1/INFO]: <Fritask> Big0de[m
-[21:37:21] [Netty Server IO #1/INFO]: <Fritask> Big0de[m
-[21:37:22] [Netty Server IO #1/INFO]: <Fritask> Big0de[m
-[21:37:22] [Netty Server IO #1/INFO]: <Fritask> b[m
-[21:37:45] [Server thread/INFO]: alexandremm[/192.168.0.14:50153] logged in with entity id 16968 at ([world]-1007.3000000119213, 68.0, -1542.4817742651305)
-[21:37:47] [Netty Server IO #4/INFO]: <Big0de> bom dia[m
-[21:37:49] [Netty Server IO #4/INFO]: <Big0de> dia bom[m
-[21:37:51] [Netty Server IO #4/INFO]: <Big0de> bom[m
-[21:37:56] [Server thread/INFO]: Villager EntityVillager['Armorer'/171, l='world', x=-972.52, y=67.00, z=-1494.55] died, message: 'Armorer was blown up by Creeper'
-[21:38:10] [Server thread/INFO]: Villager EntityVillager['Fletcher'/175, l='world', x=-973.63, y=67.00, z=-1503.47] died, message: 'Fletcher discovered the floor was lava'
-[21:39:54] [Netty Server IO #0/INFO]: <alexandremm> a[m
-[21:39:58] [Netty Server IO #4/INFO]: <Big0de> b[m
-[21:40:08] [Netty Server IO #4/INFO]: <Big0de> oi tudo baim[m
-[21:40:15] [Netty Server IO #4/INFO]: <Big0de> agr vai[m
-[21:41:17] [Netty Server IO #0/INFO]: <alexandremm> augusto smp da pra mim[m
-[21:41:31] [Netty Server IO #4/INFO]: <Big0de> dou sim minha mão na sua cara[m
-[21:41:32] [Netty Server IO #4/INFO]: <Big0de> k[m
-[21:42:55] [Netty Server IO #4/INFO]: <Big0de> ta[m
-[21:42:59] [Netty Server IO #0/INFO]: <alexandremm> ??[m
-[21:43:10] [Netty Server IO #4/INFO]: <Big0de> se vai sentar é na cabeçç[m
-[21:44:56] [Netty Server IO #2/INFO]: <pevve> k[m
-[21:44:56] [Server thread/INFO]: alexfx1[/191.31.128.71:52842] logged in with entity id 18323 at ([world]-950.0634903431664, 85.875, -1524.0057594423902)
-[21:45:33] [Netty Server IO #4/INFO]: <Big0de> é ;/[m
-[21:45:38] [Netty Server IO #4/INFO]: <Big0de> -.-[m
-[21:45:39] [Netty Server IO #4/INFO]: <Big0de> u.u[m
-[21:45:41] [Netty Server IO #4/INFO]: <Big0de> e.e[m
-[21:45:43] [Netty Server IO #4/INFO]: <Big0de> g.g[m
-[21:45:57] [Netty Server IO #4/INFO]: <Big0de> p.p[m
-[21:46:02] [Netty Server IO #4/INFO]: <Big0de> chá com fritas[m
-[21:46:02] [Netty Server IO #0/INFO]: <alexandremm> pinto pequeno[m
-[21:46:13] [Netty Server IO #4/INFO]: <Big0de> p.p alexmm[m
-[21:46:23] [Netty Server IO #0/INFO]: <alexandremm> b[m
-[21:46:25] [Netty Server IO #0/INFO]: <alexandremm> Big0de[m
-[21:46:26] [Netty Server IO #4/INFO]: <Big0de> cardi b[m
-[21:46:28] [Netty Server IO #0/INFO]: <alexandremm> b[m
-[21:46:33] [Netty Server IO #4/INFO]: <Big0de> beija eu[m
-[21:46:36] [Netty Server IO #0/INFO]: <alexandremm> nao[m
-[21:46:39] [Netty Server IO #4/INFO]: <Big0de> ta :c[m
-[21:49:00] [Server thread/WARN]: Big0de moved wrongly!
-[21:49:20] [Server thread/WARN]: Big0de moved wrongly!
-[21:52:09] [Netty Server IO #0/INFO]: <alexandremm> zzzzzzzzzzzzzzzzz[m
-[21:52:20] [Netty Server IO #1/INFO]: <alexfx1> zzzzzzzz[m
-[21:53:06] [Netty Server IO #0/INFO]: <alexandremm> DORME DESGRAÇA[m
-[21:53:19] [Netty Server IO #1/INFO]: <alexfx1> ja dormi[m
-[21:53:19] [Netty Server IO #0/INFO]: <alexandremm> kkkkkkkkkkkkkk[m
-[21:53:22] [Server thread/INFO]: baristikk[/179.104.247.109:53686] logged in with entity id 20365 at ([world]1473.6147071562805, 70.0, 2349.5784617593868)
-[21:53:24] [Netty Server IO #0/INFO]: <alexandremm> o bucettaaaaaaaaaaaaaaaaaaa[m
-[21:53:30] [Netty Server IO #0/INFO]: <alexandremm> dormeeeeeeeeeeeeeeeee[m
-[21:53:30] [Server thread/INFO]: baristikk lost connection: Disconnected
-[21:53:30] [Server thread/INFO]: baristikk left the game
-[21:53:32] [Netty Server IO #0/INFO]: <alexandremm> INFENROOOOOOOOOO[m
-[21:53:33] [Netty Server IO #0/INFO]: <alexandremm> DESGRACA[m
-[21:53:34] [Netty Server IO #0/INFO]: <alexandremm> BUCETA[m
-[21:53:48] [Server thread/INFO]: baristikk[/179.104.247.109:53692] logged in with entity id 20705 at ([world]1473.6147071562805, 70.0, 2349.5784617593868)
-[21:56:07] [Server thread/INFO]: Big0de has made the advancement [A Seedy Place]
-[21:56:43] [Netty Server IO #1/INFO]: <alexfx1> ela tava falando que n tava aguentando a vontade de dar[m
-[21:56:49] [Netty Server IO #0/INFO]: <alexandremm> da um tiro nela[m
-[21:56:50] [Netty Server IO #0/INFO]: <alexandremm> pra ver[m
-[21:56:51] [Netty Server IO #0/INFO]: <alexandremm> se n passa[m
-[21:56:58] [Netty Server IO #1/INFO]: <alexfx1> KKKKK um tiro de poha[m
-[21:59:03] [Server thread/INFO]: alexandremm has made the advancement [Take Aim]
-[22:01:26] [Netty Server IO #2/INFO]: <pevve> alexfx1[m
-[22:01:28] [Netty Server IO #0/INFO]: <alexandremm> svc[m
-[22:02:20] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[22:04:29] [Server thread/INFO]: baristikk lost connection: Disconnected
-[22:04:29] [Server thread/INFO]: baristikk left the game
-[22:04:37] [Netty Server IO #1/INFO]: <Fritask> wwwwzzzzzzzzzzzzzzzzz[m
-[22:04:39] [Server thread/INFO]: Big0de lost connection: Disconnected
-[22:04:39] [Server thread/INFO]: Big0de left the game
-[22:04:39] [Server thread/WARN]: alexandremm moved too quickly! 0.40527015964789825,1.1767592750642422,11.027906484271398
-[22:04:39] [Server thread/WARN]: alexandremm moved too quickly! 0.369517023652179,1.252203340253729,10.699457770986555
-[22:04:40] [Netty Server IO #2/INFO]: <pevve> zzzzzzzz[m
-[22:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5144ms or 102 ticks behind
-[22:04:47] [Netty Server IO #1/INFO]: <alexfx1> zzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[22:05:00] [Netty Server IO #0/INFO]: <alexandremm> k[m
-[22:05:01] [Netty Server IO #0/INFO]: <alexandremm> kkkkkk[m
-[22:05:08] [Netty Server IO #0/INFO]: <alexandremm> meu narrador eh bugado[m
-[22:05:16] [Netty Server IO #1/INFO]: <alexfx1> pevve de says[m
-[22:05:22] [Server thread/INFO]: Big0de[/189.15.131.248:49738] logged in with entity id 30345 at ([world]-478.70262323392546, 62.07326329609286, -920.3139816422866)
-[22:05:31] [Netty Server IO #1/INFO]: <alexfx1> big0de god[m
-[22:05:41] [Server thread/WARN]: Big0de moved wrongly!
-[22:05:46] [Netty Server IO #0/INFO]: <alexandremm> a[m
-[22:05:56] [Netty Server IO #1/INFO]: <Fritask> a[m
-[22:05:56] [Netty Server IO #1/INFO]: <alexfx1> twtw ider[m
-[22:06:02] [Netty Server IO #0/INFO]: <alexandremm> pv cuzao[m
-[22:06:10] [Netty Server IO #1/INFO]: <alexfx1> fica na minha bunda[m
-[22:06:13] [Netty Server IO #0/INFO]: <alexandremm> augusto bigodin piruzin gostoso[m
-[22:06:17] [Server thread/INFO]: baristikk[/179.104.247.109:53757] logged in with entity id 31261 at ([world]808.6999999880791, 63.0, 2817.699999988079)
-[22:06:20] [Server thread/INFO]: Fritask lost connection: Disconnected
-[22:06:20] [Server thread/INFO]: Fritask left the game
-[22:06:24] [Server thread/INFO]: Fritask[/191.248.188.241:51065] logged in with entity id 31451 at ([world]-966.9696738693814, 66.9375, -1487.090603122563)
-[22:06:28] [Netty Server IO #5/INFO]: <Fritask> a[m
-[22:06:32] [Server thread/WARN]: pevve moved too quickly! -8.709515478451635,-1.1767592750642422,5.177653348138165
-[22:06:35] [Netty Server IO #0/INFO]: <alexandremm> aaaaaaaaaaaaaaaaaaaaaaa[m
-[22:06:35] [Netty Server IO #2/INFO]: <pevve> paaaaaaaaaaaau[m
-[22:06:37] [Netty Server IO #1/INFO]: <alexfx1> pvzin gatin cuzin lambidinha na bundinha[m
-[22:06:38] [Server thread/INFO]: pevve lost connection: Disconnected
-[22:06:38] [Server thread/INFO]: pevve left the game
-[22:06:40] [Server thread/INFO]: pevve[/189.15.139.27:4652] logged in with entity id 31530 at ([world]-922.8872838272277, 71.0, -1498.3944243503647)
-[22:06:46] [Netty Server IO #6/INFO]: <pevve> paaaaaaaaaaaaaaaaaau[m
-[22:06:51] [Netty Server IO #0/INFO]: <alexandremm> augusto sa pra mim[m
-[22:06:53] [Netty Server IO #0/INFO]: <alexandremm> da([m
-[22:06:53] [Netty Server IO #1/INFO]: <alexfx1> pvzin gatin cuzin linhguinha jug[m
-[22:06:55] [Netty Server IO #0/INFO]: <alexandremm> \[m
-[22:07:00] [Netty Server IO #1/INFO]: <alexfx1> coco[m
-[22:07:02] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:07:06] [Netty Server IO #0/INFO]: <alexandremm> \[m
-[22:07:10] [Netty Server IO #1/INFO]: <alexfx1> ? eh[m
-[22:07:15] [Netty Server IO #0/INFO]: <alexandremm> \ e te chupa[m
-[22:07:17] [Server thread/INFO]: Big0de drowned
-[22:07:18] [Netty Server IO #5/INFO]: <Fritask> ? e ? a ? 4t4t ? \[m
-[22:07:22] [Netty Server IO #0/INFO]: <alexandremm> KASDKASJJHDASGVBD0[m
-[22:07:26] [Netty Server IO #5/INFO]: <Fritask> b[m
-[22:07:28] [Netty Server IO #5/INFO]: <Fritask> baristikk[m
-[22:07:28] [Netty Server IO #1/INFO]: <alexfx1> 009skdfkdk[m
-[22:07:31] [Netty Server IO #5/INFO]: <Fritask> Big0de[m
-[22:07:34] [Netty Server IO #6/INFO]: <pevve> paaaaaaaaaau[m
-[22:07:36] [Netty Server IO #5/INFO]: <Fritask> Big0de[m
-[22:07:40] [Netty Server IO #3/INFO]: <Big0de> corona vaiurs[m
-[22:07:42] [Netty Server IO #1/INFO]: <alexfx1> me beeeeeeija[m
-[22:07:42] [Netty Server IO #5/INFO]: <Fritask> b[m
-[22:07:46] [Netty Server IO #1/INFO]: <alexfx1> h[m
-[22:07:50] [Netty Server IO #3/INFO]: <Big0de> eh mole[m
-[22:07:53] [Netty Server IO #1/INFO]: <alexfx1> h minha rola[m
-[22:07:56] [Netty Server IO #0/INFO]: <alexandremm> vamo comer o augusto?[m
-[22:08:01] [Netty Server IO #1/INFO]: <alexfx1> sim[m
-[22:08:01] [Netty Server IO #5/INFO]: <Fritask> a[m
-[22:08:04] [Netty Server IO #1/INFO]: <alexfx1> a[m
-[22:08:11] [Netty Server IO #5/INFO]: <Fritask> a[m
-[22:08:20] [Netty Server IO #1/INFO]: <alexfx1> fritask ? a[m
-[22:08:30] [Netty Server IO #1/INFO]: <alexfx1> ? a frichu[m
-[22:08:33] [Netty Server IO #3/INFO]: <Big0de> caramba meu[m
-[22:08:42] [Netty Server IO #6/INFO]: <pevve> bolsonaro[m
-[22:08:43] [Netty Server IO #3/INFO]: <Big0de> olokinho[m
-[22:08:45] [Netty Server IO #1/INFO]: <alexfx1> chupa meu BI ? law[m
-[22:08:55] [Netty Server IO #3/INFO]: <Big0de> amada ?[m
-[22:08:59] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:09:02] [Netty Server IO #6/INFO]: <pevve> e[m
-[22:09:04] [Netty Server IO #1/INFO]: <alexfx1> BIG 00000000000 DE SEYS[m
-[22:09:06] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:09:12] [Netty Server IO #3/INFO]: <Big0de> omg[m
-[22:09:13] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:09:14] [Netty Server IO #1/INFO]: <alexfx1> a[m
-[22:09:15] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:09:20] [Netty Server IO #1/INFO]: <alexfx1> a b c[m
-[22:09:21] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:09:22] [Netty Server IO #1/INFO]: <alexfx1> a[m
-[22:09:23] [Netty Server IO #3/INFO]: <Big0de> cake[m
-[22:09:23] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:09:35] [Netty Server IO #1/INFO]: <alexfx1> queeeeeeeeijo[m
-[22:09:36] [Netty Server IO #6/INFO]: <pevve> a[m
-[22:09:39] [Netty Server IO #1/INFO]: <alexfx1> vsf[m
-[22:09:48] [Netty Server IO #6/INFO]: <pevve> pau no cu[m
-[22:09:49] [Netty Server IO #3/INFO]: <Big0de> mds[m
-[22:09:53] [Netty Server IO #1/INFO]: <alexfx1> pau no pevve ? a[m
-[22:09:56] [Netty Server IO #6/INFO]: <pevve> pauno victor[m
-[22:09:59] [Netty Server IO #6/INFO]: <pevve> pevvvve[m
-[22:10:06] [Netty Server IO #1/INFO]: <alexfx1> BI 0 ? VF[m
-[22:10:09] [Netty Server IO #0/INFO]: <alexandremm> fi[m
-[22:10:10] [Netty Server IO #6/INFO]: <pevve> pevvvvvvvvvvvvve[m
-[22:10:11] [Netty Server IO #0/INFO]: <alexandremm> se eu gritasse[m
-[22:10:12] [Netty Server IO #0/INFO]: <alexandremm> c meu pai[m
-[22:10:15] [Netty Server IO #0/INFO]: <alexandremm> ele me batia[m
-[22:10:16] [Netty Server IO #0/INFO]: <alexandremm> agr o ursao[m
-[22:10:18] [Netty Server IO #6/INFO]: <pevve> pevvvvvvvvvve[m
-[22:10:20] [Netty Server IO #0/INFO]: <alexandremm> fica nessa falta de educacao[m
-[22:10:25] [Netty Server IO #1/INFO]: <alexfx1> apeeeevevvvvvvvve[m
-[22:10:25] [Netty Server IO #6/INFO]: <pevve> EDUCACAO[m
-[22:10:31] [Netty Server IO #1/INFO]: <alexfx1> pevvvvvvvvvvve[m
-[22:10:35] [Netty Server IO #6/INFO]: <pevve> pevvvvvvvvvve[m
-[22:10:42] [Netty Server IO #6/INFO]: <pevve> VvvvvvvvvvVVVVVVVVVVVVE[m
-[22:10:47] [Netty Server IO #1/INFO]: <alexfx1> ooooooooooooooooooooooppppppppppppppppppaaaaaaaaaaaaaaaaaaaaavvvvvvvvvvvvvvvv[m
-[22:10:51] [Server thread/INFO]: Fritask lost connection: Disconnected
-[22:10:51] [Server thread/INFO]: Fritask left the game
-[22:10:53] [Server thread/INFO]: Fritask[/191.248.188.241:51078] logged in with entity id 34533 at ([world]-1005.8587484377178, 69.0, -1490.218464223873)
-[22:11:00] [Netty Server IO #1/INFO]: <alexfx1> ooooooooooaaaaaaaaeeeeeeee[m
-[22:11:03] [Netty Server IO #7/INFO]: <Fritask> cu ca cu ca ci[m
-[22:11:04] [Netty Server IO #3/INFO]: <Big0de> k k k[m
-[22:11:06] [Netty Server IO #7/INFO]: <Fritask> cu ca cu ca ci[m
-[22:11:06] [Netty Server IO #6/INFO]: <pevve> a b c d e[m
-[22:11:07] [Netty Server IO #7/INFO]: <Fritask> cu ca cu ca ci[m
-[22:11:09] [Netty Server IO #6/INFO]: <pevve> a b c d e[m
-[22:11:17] [Netty Server IO #3/INFO]: <Big0de> oque é um pontinho preto[m
-[22:11:23] [Netty Server IO #1/INFO]: <alexfx1> cibllei era xonada no miranda[m
-[22:11:23] [Netty Server IO #7/INFO]: <Fritask> coco[m
-[22:11:24] [Netty Server IO #6/INFO]: <pevve> a b c d e f g h i j k l m n o p q r s t u v[m
-[22:11:29] [Netty Server IO #3/INFO]: <Big0de> quero beija[m
-[22:11:38] [Server thread/INFO]: pevve lost connection: Disconnected
-[22:11:38] [Server thread/INFO]: pevve left the game
-[22:11:41] [Netty Server IO #0/INFO]: <alexandremm> compra um fogao[m
-[22:11:44] [Netty Server IO #0/INFO]: <alexandremm> tem 6 bocas[m
-[22:11:45] [Netty Server IO #3/INFO]: <Big0de> eu sou influencer[m
-[22:11:49] [Server thread/INFO]: Fritask lost connection: Disconnected
-[22:11:49] [Server thread/INFO]: Fritask left the game
-[22:11:51] [Server thread/INFO]: alexandremm lost connection: Disconnected
-[22:11:51] [Server thread/INFO]: alexandremm left the game
-[22:14:03] [Server thread/INFO]: Big0de lost connection: Disconnected
-[22:14:03] [Server thread/INFO]: Big0de left the game
-[22:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
-[22:15:59] [Server thread/INFO]: baristikk lost connection: Disconnected
-[22:16:00] [Server thread/INFO]: baristikk left the game
-[22:16:29] [Server thread/INFO]: Stopping the server
-[22:16:29] [Server thread/INFO]: Stopping server
-[22:16:29] [Server thread/INFO]: Saving players
-[22:16:29] [Server thread/INFO]: alexfx1 lost connection: Server closed
-[22:16:29] [Server thread/INFO]: alexfx1 left the game
-[22:16:30] [Server thread/INFO]: Saving worlds
-[22:16:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:16:31] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[22:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:16:31] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[22:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:16:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:16:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:36:40] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:36:40] [Server thread/INFO]: Loading properties
+[15:36:40] [Server thread/INFO]: Default game type: SURVIVAL
+[15:36:40] [Server thread/INFO]: Generating keypair
+[15:36:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:36:40] [Server thread/INFO]: Using default channel type
+[15:36:42] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[15:36:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:36:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:36:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:36:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:36:42] [Server thread/INFO]: Preparing level "world"
+[15:36:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:36:44] [Server thread/INFO]: Loaded 6 recipes
+[15:36:46] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[15:36:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:36:49] [Server thread/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[15:37:02] [Server thread/INFO]: Preparing spawn area: 1%
+[15:37:03] [Server thread/INFO]: Time elapsed: 16378 ms
+[15:37:03] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[15:37:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:37:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:37:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:37:04] [Server thread/INFO]: Time elapsed: 1274 ms
+[15:37:04] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[15:37:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:37:05] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[15:37:05] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[15:37:06] [Server-Worker-3/INFO]: Preparing spawn area: 93%
+[15:37:06] [Server thread/INFO]: Time elapsed: 1692 ms
+[15:37:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:37:06] [Server thread/INFO]: Done (23.486s)! For help, type "help"
+[15:39:58] [Server thread/INFO]: alexandremm[/191.248.163.19:50206] logged in with entity id 102 at ([world]-1007.3313174926186, 67.9375, -1498.546577484591)
+[15:40:00] [Server thread/INFO]: alexfx1[/191.31.128.71:54730] logged in with entity id 314 at ([world]-978.3000000119209, 63.0, -1385.4691058862586)
+[15:40:22] [Server thread/INFO]: alexfx1 lost connection: Disconnected
+[15:40:22] [Server thread/INFO]: alexfx1 left the game
+[15:40:23] [Server thread/INFO]: alexandremm lost connection: Disconnected
+[15:40:23] [Server thread/INFO]: alexandremm left the game
+[15:40:30] [Server thread/INFO]: Stopping server
+[15:40:30] [Server thread/INFO]: Saving players
+[15:40:31] [Server thread/INFO]: Saving worlds
+[15:40:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:40:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:40:31] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[15:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:40:32] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[15:40:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:40:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
