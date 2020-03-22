@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-17 21:47:28 -0300"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-03-17 21:29:26 -0300"
@@ -188,6 +200,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-03-17 21:29:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },
@@ -344,6 +362,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-19 20:04:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },
@@ -506,6 +530,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-17 21:47:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },
@@ -846,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-03-21 23:36:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-03-18 23:19:58 -0300"
@@ -909,6 +945,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-03-21 11:51:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },
@@ -1027,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-03-21 13:16:20 -0300",
@@ -1114,6 +1162,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-19 20:04:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },
@@ -1363,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-19 20:04:35 -0300"
@@ -1384,6 +1444,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2020-03-18 22:58:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },
@@ -1497,7 +1563,9 @@
       "baked_potato": "2020-03-21 12:18:27 -0300",
       "potato": "2020-03-17 22:54:40 -0300",
       "cooked_cod": "2020-03-17 21:43:35 -0300",
+      "poisonous_potato": "2020-03-22 00:57:07 -0300",
       "bread": "2020-03-17 22:47:52 -0300",
+      "rotten_flesh": "2020-03-21 18:11:56 -0300",
       "dried_kelp": "2020-03-17 21:46:08 -0300",
       "cooked_chicken": "2020-03-18 20:51:33 -0300",
       "cooked_salmon": "2020-03-18 22:00:03 -0300",
@@ -1895,6 +1963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-03-21 23:36:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-19 20:04:35 -0300"
@@ -2093,6 +2167,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2020-03-22 00:57:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-03-18 20:54:14 -0300"
@@ -2162,6 +2248,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-03-18 20:48:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },
@@ -2423,6 +2515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 21:39:37 -0300"
@@ -2498,6 +2596,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-03-18 20:12:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2020-03-21 18:01:16 -0300"
     },
     "done": true
   },

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "99760f63-c1d7-3665-8b61-dbe4e56886dd",
+    "name": "alexandremm",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8341c24e-adfb-350f-98a3-c57596b4b2f7",
+    "name": "Fritask",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
